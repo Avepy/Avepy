@@ -1,6 +1,6 @@
 ## Fancy seeing you here! :wave:
 
-I am avepy, interesting some programming stuff and music. Feel free to connect with me here:
+I am avepy, interested in programming stuff and music. Feel free to connect with me here:
 
 ![Discord](https://img.shields.io/badge/-Avepy%230673-black?style=falt-square&logo=discord&logoColor=white)
 

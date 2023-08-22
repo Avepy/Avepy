@@ -2,7 +2,7 @@
 
 I am avepy, interested in programming stuff and music. Feel free to contact me here:
 
-![Discord](https://img.shields.io/badge/-Avepy%230673-black?style=falt-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/-avepy-black?style=falt-square&logo=discord&logoColor=white)
 
 ## ⚡ Technologies
 

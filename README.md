@@ -21,4 +21,4 @@ I am avepy, interested in programming stuff and music. Feel free to contact me h
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&logoColor=orange)

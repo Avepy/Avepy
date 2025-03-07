@@ -6,7 +6,7 @@ I am avepy, interested in programming stuff and music. Feel free to contact me h
 
 ## ⚡ Technologies
 
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp&logoColor=blue)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=sharp&logoColor=blue)
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet&logoColor=purple)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
